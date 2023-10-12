@@ -50,7 +50,7 @@ As for me, I am a Back-End developer passionate about creativity and innovation.
 
 <hr>
 
-#Minhas Redes Sociais \  My social medias
+<h3>Minhas Redes Sociais \  My social medias</h3>
     
 <div style="display: flex;flex-wrap: wrap">
           <a href="https://www.instagram.com/joaopedxr/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>

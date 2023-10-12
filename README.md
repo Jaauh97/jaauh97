@@ -58,4 +58,4 @@ As for me, I am a Back-End developer passionate about creativity and innovation.
             
   </div>
 
-  ![Snake animation](https://github.com/jaauh97/jaauh97/blob/output/github-contribution-grid-snake.svg)
+ 

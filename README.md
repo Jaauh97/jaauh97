@@ -1,7 +1,5 @@
-## Olá , Bem Vindo / Helloooo Strangerrr
+## Helloooo Strangerrr
 
-
-Me chamo João Pedro e é um prazer recebê-lo em meu Github. Com minha autorização {authorization: true}, você pode acessar meus projetos e analisar meus códigos. Boa caçada e espero que encontre boas descobertas.
 
 My name is João Pedro and it's a pleasure to welcome you to my Github. With my authorization {authorization: true}, you can access my projects and analyze my codes. Happy hunting and I hope you find some good discoveries.
 
@@ -9,15 +7,13 @@ My name is João Pedro and it's a pleasure to welcome you to my Github. With my 
 
 
 
-<h2>Quem eu sou / Who I am </h2>
-
-Quanto a mim, sou um desenvolvedor Back-End apaixonado por criatividade e inovação. Também sou Estudante de Engenharia de Software e dedico parte do meu tempo à leitura de livros sobre programação. Busco me desenvolver continuamente e impactar positivamente a vida das pessoas por meio da tecnologia, criando ferramentas que facilitem o dia-a-dia das pessoas ao redor do mundo.
+<h2>Who I am </h2>
 
 As for me, I am a Back-End developer passionate about creativity and innovation. I am also a Software Engineering Student and I dedicate part of my time to reading books about programming. I seek to continually develop myself and positively impact people's lives through technology, creating tools that make the daily lives of people around the world easier.
 
 <hr>
 
-<h3>Minhas Stacks</h3>
+<h3>My Stacks</h3>
 
 
 <div style="display: flex;flex-wrap: wrap">
@@ -32,7 +28,7 @@ As for me, I am a Back-End developer passionate about creativity and innovation.
 
 <hr>
 
-<h3>Minhas Ferramentas \ My Tools</h3>
+<h3> My Tools</h3>
 
 
 <div style="display: flex;flex-wrap: wrap">
@@ -50,7 +46,7 @@ As for me, I am a Back-End developer passionate about creativity and innovation.
 
 <hr>
 
-<h3>Minhas Redes Sociais \  My social medias</h3>
+<h3> My social medias</h3>
     
 <div style="display: flex;flex-wrap: wrap">
           <a href="https://www.instagram.com/joaopedxr/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>

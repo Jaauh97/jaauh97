@@ -18,9 +18,9 @@ As for me, I am a Back-End developer passionate about creativity and innovation.
 
 <div style="display: flex;flex-wrap: wrap">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>      
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />   
     <img align="right" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaauh97&layout=compact&langs_count=16&theme=great-gatsby"/>   
   </div>
 

@@ -1,15 +1,11 @@
 ## Helloooo Strangerrr
 
 
-My name is João Pedro and it's a pleasure to welcome you to my Github. With my authorization {authorization: true}, you can access my projects and analyze my codes. Happy hunting and I hope you find some good discoveries.
+Olá nome é João Pedro, tenho 27 anos e sou estudante de Ciência da Computação . É um prazer recebê-lo em meu Github. 
+Com minha autorização {authorization: true} você pode acessar meus projetos e analisar meus códigos. Boa caçada e espero que você encontre boas descobertas.
 
 
 
-
-
-<h2>Who I am </h2>
-
-As for me, I am a Back-End developer passionate about creativity and innovation. I am also a Software Engineering Student and I dedicate part of my time to reading books about programming. I seek to continually develop myself and positively impact people's lives through technology, creating tools that make the daily lives of people around the world easier.
 
 <hr>
 

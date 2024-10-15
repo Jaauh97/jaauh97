@@ -1,7 +1,8 @@
 ## Helloooo Strangerrr
 
 
-Olá nome é João Pedro, tenho 27 anos e sou estudante de Ciência da Computação . É um prazer recebê-lo em meu Github. 
+Bem Vindo !!
+É um prazer recebê-lo em meu Github. 
 Com minha autorização {authorization: true} você pode acessar meus projetos e analisar meus códigos. Boa caçada e espero que você encontre boas descobertas.
 
 
